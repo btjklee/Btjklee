@@ -4,10 +4,10 @@
 **btjklee/Btjklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-💻 Aspiring Software Engineer | Problem Solver | Tech Enthusiast  
-🌱 Currently learning **algorithmic problem solving & Backend Development**  
-🚀 Building projects in **Python, Flask, Django, JavaScript**  
-📚 Studying **Data Structures & Algorithms** for coding interviews  
-🔍 Open to software engineering job opportunities  
+🎓 Computer Science Graduate | Tech Generalist | Problem Solver  
+💡 Passionate about using technology to build, secure, and improve systems  
+🌱 Continuously learning: backend development, data structures, system design, and cybersecurity fundamentals  
+🛠️ Building projects with Python, Flask, JavaScript, React, and PostgreSQL  
+🔍 Exploring opportunities in software development, IT, and information systems  
 📫 Reach me at **btjklee@gmail.com**  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ju-l-bb0b20211)
