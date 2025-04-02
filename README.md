@@ -10,4 +10,4 @@
 🛠️ Building projects with Python, Flask, JavaScript, React, and PostgreSQL  
 🔍 Exploring opportunities in software development, IT, and information systems  
 📫 Reach me at **btjklee@gmail.com**  
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ju-l-bb0b20211)
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ju-lesesne-bb0b20211/)
